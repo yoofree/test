@@ -6,9 +6,6 @@ map mp_coop_wall_intro
 클라이언트 설정
 connect 서버IP
 
-
-
-
 맵이름
 "mp_coop_start"
 "mp_coop_lobby_2"
